@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @linked-mail
+- 👀 We provide interested in enriching emails with their linked profiles
+- 🌱 I’m currently learning new OSINT techniques for finding more details 
+- 📫 How to reach me ... sales@linked-mail.com
